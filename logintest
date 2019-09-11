@@ -1,0 +1,24 @@
+<html>
+<body>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/6.6.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#config-web-app -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBJVcn2QbCsIhWnrRFr5-gFhoDlmTURW0c",
+    authDomain: "wheresthebus-3fa70.firebaseapp.com",
+    databaseURL: "https://wheresthebus-3fa70.firebaseio.com",
+    projectId: "wheresthebus-3fa70",
+    storageBucket: "",
+    messagingSenderId: "289932661582",
+    appId: "1:289932661582:web:f977c2f72f7d6f9b03041f"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
+</body>
+</html>
