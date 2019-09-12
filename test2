@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-<iframe src="https://www.google.com/maps/d/embed?mid=1jYxGD6anIFuMAC1JTYd4ZcbL4JJAVcKu" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1uaJrlBksPDx3nH9Ank2k3dhSYarjybq3" width="640" height="480"></iframe>
 
 		 <button onclick="window.location.href='WTB.html'">Back</button>
         
