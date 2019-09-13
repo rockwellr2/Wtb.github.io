@@ -19,7 +19,7 @@ ul{
 
 .button_1{
   position: relative;
-  left: -280px;
+  left: 100px;
   height:48px;
   background:#e8491d;
   border:0;
@@ -30,7 +30,7 @@ ul{
 
 .button_2{
   position: relative;
-  left: -550px;
+  left: -140px;
   height:48px;
   background:#0daaff;
   border:0;
